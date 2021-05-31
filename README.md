@@ -1,8 +1,8 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/MCarlomagno/FlutterMobilenet/master/assets/flutterMobilenet.png" alt="flutter mobilenet banner"/>
+<img src="https://raw.githubusercontent.com/MCarlomagno/face/master/assets/face.png" alt="flutter mobilenet banner"/>
 </div>
 
-# FlutterMobilenet
+# face
 The main goal of this project is to show an example of tensorflow lite integrated in a flutter application that classifies images in real time.
 
 ## Getting Started
@@ -28,7 +28,7 @@ neural networks.
 
 ## Screenshot
 <div align="center">
-<img src="https://raw.githubusercontent.com/MCarlomagno/assets/master/FlutterMobilenet.gif" alt="FlutterMobilenet screenshot" width="300"/>
+<img src="https://raw.githubusercontent.com/MCarlomagno/assets/master/face.gif" alt="face screenshot" width="300"/>
 </div>
 
 ## Licence

@@ -1,6 +1,6 @@
-import 'package:FlutterMobilenet/services/camera-service.dart';
-import 'package:FlutterMobilenet/services/tensorflow-service.dart';
-import 'package:FlutterMobilenet/widgets/recognition.dart';
+import 'package:face/services/camera-service.dart';
+import 'package:face/services/tensorflow-service.dart';
+import 'package:face/widgets/recognition.dart';
 import 'package:camera/camera.dart';
 import 'package:flutter/material.dart';
 import 'camera-header.dart';

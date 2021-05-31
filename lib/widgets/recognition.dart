@@ -1,5 +1,5 @@
 import 'dart:async';
-import 'package:FlutterMobilenet/services/tensorflow-service.dart';
+import 'package:face/services/tensorflow-service.dart';
 import 'package:flutter/material.dart';
 
 class Recognition extends StatefulWidget {
